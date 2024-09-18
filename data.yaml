@@ -1,0 +1,12 @@
+names:
+- 'REAR_CONTAINER'
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: rear_container-h7cxz
+  url: https://universe.roboflow.com/createdataset-cxjff/rear_container-h7cxz/dataset/1
+  version: 1
+  workspace: createdataset-cxjff
+test: ../test/images
+train: REAR_CONTAINER-1/train/images
+val: REAR_CONTAINER-1/valid/images
